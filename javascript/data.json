@@ -1,0 +1,43 @@
+let tasks = `[{
+    "id": 0,
+    "taskName": "Clean the house",
+    "image": "img/01.jpg",
+    "description": "Spend two hours cleaning the house, including vacuuming, dusting, and washing the dishes.",
+    "deadline": "01/01/2023",
+    "importance": 0
+}, {
+    "id": 1,
+    "taskName": "Finish report",
+    "image": "img/04.jpg",
+    "description": "Complete the sales report for the month, including revenue, expenses, and projections for next month.",
+    "deadline": "05/01/2023",
+    "importance": 0
+}, {
+    "id": 2,
+    "taskName": "Learn something new",
+    "image": "img/02.jpg",
+    "description": "This could be as simple as reading an article on a topic you're interested in.",
+    "deadline": "10/01/2023",
+    "importance": 0
+}, {
+    "id": 3,
+    "taskName": "Study for exam",
+    "image": "img/03.jpg",
+    "description": "Review notes and textbook for two hours to prepare for the upcoming exam.",
+    "deadline": "15/01/2023",
+    "importance": 0
+}, {
+    "id": 4,
+    "taskName": "Make dinner",
+    "image": "img/04.jpg",
+    "description": "Prepare a healthy meal for two, including grilled chicken and roasted vegetables.",
+    "deadline": "20/01/2023",
+    "importance": 0
+}, {
+    "id": 5,
+    "taskName": "Call family",
+    "image": "img/01.jpg",
+    "description": "Spend 30 minutes calling parents and siblings to catch up and have a chat.",
+    "deadline": "25/01/2023",
+    "importance": 0
+}]`
